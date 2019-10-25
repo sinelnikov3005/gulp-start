@@ -1,0 +1,13 @@
+@import "vars";
+@import "libs";
+@import "fonts";
+//==================================================
+body{
+    background: $color1;
+}
+h1{
+    font-family: $ffsans;
+    color: $color2;
+}
+//==================================================
+@import "media";
